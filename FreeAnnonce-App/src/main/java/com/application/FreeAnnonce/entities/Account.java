@@ -1,4 +1,4 @@
-package com.application.FreeAnnonce.com.entities;
+package com.application.FreeAnnonce.entities;
 
 import java.io.Serializable;
 import java.util.Date;
